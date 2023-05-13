@@ -1,0 +1,4 @@
+/src/functions/*.c
+/src/functions/*.pyd
+/build/
+.idea
